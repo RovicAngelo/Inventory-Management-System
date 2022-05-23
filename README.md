@@ -20,10 +20,10 @@
  If the user chooses option 1, the system will show the receiving class, which contains the product quantity, inventory status, inventory capacity, and the total amount of it. The user need to enter a product quantity in order to add it to the total product quantity in the inventory.
 ![This is the image for option 1(Receiving)](https://github.com/RovicAngelo/testing/blob/main/1.PNG)
 
-Then, if the user chooses option 2, the system will direct them to the distribution class which contains the product quantity, inventory status, inventory capacity, and the product's total amount. The user need to enter a product quantity in order to subtract it to the total product quantity in the inventory.
+ Then, if the user chooses option 2, the system will direct them to the distribution class which contains the product quantity, inventory status, inventory capacity, and the product's total amount. The user need to enter a product quantity in order to subtract it to the total product quantity in the inventory.
  ![This is the image for option 2(Distribution)](https://github.com/RovicAngelo/testing/blob/main/2.PNG)
  
-Finally, if the user chooses the last option, which is option 3, that is to exit and stop the program.
+ Finally, if the user chooses the last option, which is option 3, that is to exit and stop the program.
 
 ---
 ## Authors
