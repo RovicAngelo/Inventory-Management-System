@@ -27,6 +27,7 @@
 
 ---
 ## Authors
+
 - [Christelle Ann Badal](https://github.com/ChristelleAnn)
 - [Ellaiza Mae Baloloy](https://github.com/ellaizabaloloy)
 - [Noella Ann Dacudao](https://github.com/NoellaAnn)
