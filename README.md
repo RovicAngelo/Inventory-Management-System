@@ -8,7 +8,7 @@
 --- 
 ## Instructions
 
-#### After copying and running the code, you should see the user log in. For the Username, type **username**, and for the Password, type **password**.
+ After copying and running the code, you should see the user log in. For the Username, type **username**, and for the Password, type **password**.
 ![This is the image for userlogin](https://github.com/RovicAngelo/testing/blob/main/wc.PNG)
 
 #### The main menu will appear after that.This will eventually ask for user input; 0 for Inventory Inquiry, 1 for Receiving, 2 for Distribution, and 3 for Exit.
